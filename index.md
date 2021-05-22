@@ -7,7 +7,7 @@
 ## Working experience
  - March, 2019-Now, Northwestern Polytechnical University, Associate professor
  - December 2019-Now, Northwestern Polytechnical University, Postdoctor
- - April-May, 2021, Chinese Academy of Sciences, Visiting Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
+ - April-May, 2021, Chinese Academy of Sciences, Visit Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
 ## Research
 ### Summary
 ### Publications
