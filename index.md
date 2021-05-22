@@ -1,17 +1,17 @@
 ## Biography
-### Education
-#### - Ph.D. Xi'an Jiaotong University, Advisor: Prof. **Jicheng Li**
-#### - B.S. Guilin University Of Electronic Technology, Prof. **Xuefeng Duan**
-#### - M.S. Yan'an University, Advisor: Prof. **Jinbao Guo**
-### Research experience
+#### Education
+ - Ph.D. Xi'an Jiaotong University, Advisor: Prof. **Jicheng Li**
+ - B.S. Guilin University Of Electronic Technology, Prof. **Xuefeng Duan**
+ - M.S. Yan'an University, Advisor: Prof. **Jinbao Guo**
+#### Research experience
 ## Research
-### Summary
-### Publications
-#### Preprints
-#### Papers
+#### Summary
+#### Publications
+##### Preprints
+##### Papers
 ### Talks and conference
-#### 
-####
+##### 
+#####
 ## Teaching
 
 
