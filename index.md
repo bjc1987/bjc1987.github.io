@@ -1,21 +1,21 @@
 ## Biography
-#### Education
+### Education
  - Co-Ph.D. Louisiana State University, Co-Advisor: Prof. [**Hongchao Zhang**](https://www.math.lsu.edu/~hozhang/)
  - Ph.D. Xi'an Jiaotong University, Advisor: Prof. [**Jicheng Li**](http://gr.xjtu.edu.cn/en/web/jcli)
  - B.S. Guilin University Of Electronic Technology, Prof. [**Xuefeng Duan**](https://www.guet.edu.cn/people/info/1003/1758.htm)
  - M.S. Yan'an University, Advisor: Prof. **Jinbao Guo**
-#### Working experience
+### Working experience
  - March, 2019-Now, Northwestern Polytechnical University, Associate professor
  - December 2019-Now, Northwestern Polytechnical University, Postdoctor
  - April-May, 2021, Chinese Academy of Sciences, Visiting Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
 ## Research
-#### Summary
-#### Publications
-##### Preprints
-##### Papers
+### Summary
+### Publications
+#### Preprints
+#### Papers
 ### Talks and conference
-##### 
-#####
+#### 
+####
 ## Teaching
 
 
