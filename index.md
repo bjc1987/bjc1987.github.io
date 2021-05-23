@@ -33,7 +33,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - **J. Bai**,  H. Zhang, J. Li. _A parameterized proximal point algorithm for separable convex optimization_, Optimization Letters, 12(7):1589-1608 (2018) (JCR-3)
 - **J. Bai**,  J. Li, F. Xu, H. Zhang. _Generalized symmetric ADMM for separable convex optimization_, Computational Optimization and Applications, 70(1):129-170 (2018) (JCR-2)
 
-**`Numerical algebra including low-rank approximation, complementarity problem`**
+**`Numerical algebra including low-rank approximation & complementarity problem`**
 - **J. Bai**,  C. Chen, X. Gu. _Two alternating iterative methods and their preconditioned versions for solving the absolute value equations_, (2021)  In preparation
 - P. Dai, **J. Bai**,  J. Li. _A general preconditioner for tensor complementarity problem_, (2020)  Under review
 - P. Dai, J. Li, **J. Bai**,  L. Dong. _Notes on new error bounds for linear complementarity problems of Nekrasov matrices, B-Nekrasov matrices and QN-matrices_, Numerical Mathematics: Theory, Methods and Applications, 12: 1191-1212 (2019) (JCR-2)
@@ -68,7 +68,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ★ Guest commentator of Math Review; Member of ORSCCSIAM(2600615M), CMS(S010007511M), MIIT Key Laboratory of Dynamics and Control of Complex Systems, etc
 ### Talks and conference
-1. **`Report on converfence/at univerisity`**
+1. **`Invited talks`**
 - April 21, 2021, Report on “Deterministic and stochastic ADMM for structured convex optimization”. Beihang University, China. (invited by Prof. Jiaxin Xie)  
 - December 19, 2020, Report on “Deterministic and stochastic ADMM for nonsmooth separable convex optimization”. Changsha University of Science & Technology, China. (invited by Prof. Weijun Zhou)  
 - November 5, 2020, Report on “ADMM and its varaints for separable convex optimization”. Guangxi University, China. (invited by Prof. Gonglin Yuan)  
@@ -81,7 +81,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - February 21, 2018, Report on “Generalized/linearized symmetric ADMM for separable convex optimization”. Tulane University, USA. (invited by Prof. Y.P. Wang)
 - February 2-3, 2018, Report on “Generalized symmetric ADMM for separable convex optimization”. SCALA 2018 - Scientic Computing aroud Louisiana, Louisiana State University, USA.
 - April 23-27, 2016, Report “On the low rank solution of the Q-weighted nearest correlation matrix problem”. Shenzhen University, China. (invited by Prof. G. Li) 
-2. **`Invited talk`**
+2. **`Conference and inviting talks`**
 - May 29-30, 2021, 主办“非凸优化与分布式优化的理论、算法及应用国际研讨会”，国家天元数学西北中心资助，召集人.new.jpg
 - May 20, 2021, 主办算子分裂法及其应用研讨会(II), 报告人：周伟军(长沙理工大学)、Yuntong Bai (Tulane University),  腾讯会议.
 - March 27, 2021, 主办算子分裂法及其应用研讨会(I), 报告人：蒋建林(南京航空航天大学)、李敏(南京大学)、蔡邢菊(南京师范大学), 腾讯会议.
