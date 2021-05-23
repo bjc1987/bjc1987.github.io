@@ -69,7 +69,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ★ 美国 Math Review 特邀评论员, 中国运筹会会员(S390021704M)，CSIAM会员(2600615M), 中国数学会会员(S010007511M), 陕西省自然科学基金通信评议专家, 复杂系统动力学与控制工信部重点实验室, 西安市科学计算与应用统计重点实验室成员
 ### Talks and conference
-1. Converfence/invited talk
+1. Report on converfence/at univerisity
 - April 21, 2021| Report on “Deterministic and stochastic ADMM for structured convex optimization”. Beihang University, China. (invited by Prof. Jiaxin Xie)  
 - December 19, 2020| Report on “Deterministic and stochastic ADMM for nonsmooth separable convex optimization”. Changsha University of Science & Technology, China. (invited by Prof. Weijun Zhou)  
 - November 5, 2020| Report on “ADMM and its varaints for separable convex optimization”. Guangxi University, China. (invited by Prof. Gonglin Yuan)  
@@ -82,6 +82,20 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - February 21, 2018| Report on “Generalized/linearized symmetric ADMM for separable convex optimization”. Tulane University, USA. (invited by Prof. Y.P. Wang)
 - February 2-3, 2018| Report on “Generalized symmetric ADMM for separable convex optimization”. SCALA 2018 - Scientic Computing aroud Louisiana, Louisiana State University, USA.
 - April 23-27, 2016| Report “On the low rank solution of the Q-weighted nearest correlation matrix problem”. Shenzhen University, China. (invited by Prof. G. Li) 
-2.
+2. Invited talk
+- May 29-30, 2021| 主办“非凸优化与分布式优化的理论、算法及应用国际研讨会”，国家天元数学西北中心资助，召集人.new.jpg
+- May 20, 2021| 主办算子分裂法及其应用研讨会(II), 报告人：周伟军(长沙理工大学)、Yuntong Bai (Tulane University),  腾讯会议.
+- March 27, 2021| 主办算子分裂法及其应用研讨会(I), 报告人：蒋建林(南京航空航天大学)、李敏(南京大学)、蔡邢菊(南京师范大学), 腾讯会议.
+- December 27, 2020| 主办最优化进展主题研讨会(三), 报告人：陈彩华(南京大学)、常小凯(兰州理工大学)、吴中明(南京信息工程大学), 腾讯会议.
+- November 27, 2020| 邀请湘潭大学 彭拯 教授线下学术交流, 报告题目：一种求解非光滑黎曼流形优化问题的非精确增广拉格朗日算法，地点：理学院214会议室.
+- November 21-22, 2020| 联合主办 “计算地球物理与偏微分方程反问题会议”, 国家天元数学西北中心资助，腾讯会议.
+- November 14, 2020| 主办最优化进展主题研讨会(二), 报告人：罗和治(浙江理工大学)、胡耀华(深圳大学)、孙聪(北京邮电大学), 腾讯会议.
+- September 26, 2020| 主办最优化进展主题研讨会(一), 报告人：陈加伟(西南大学)、Yangyang Xu(伦斯勒理工大学)、韩德仁(北京航空航天大学), 腾讯会议.
+- June 30, 2020| 邀请香港理工大学 孙德锋 教授在线学术交流, 报告题目：Solving Statistical Optimization Problems: Second Order Methods with First Order Complexities or Less.
+- May 18, 2020| 邀请大连理工大学 张立卫 教授在线学术交流, 报告题目：在线复合优化的一个交替乘子方向方法.
+- September 22, 2019| 邀请南京大学 杨俊锋 教授来校学术交流, 报告题目：Tight Sublinear Convergence Rate of the Proximal Point Algorithm.
+- September 21, 2019| 邀请兰州理工大学 常小凯 副教授来校学术交流, 报告题目：How to get a proper step size for forward-backward splitting method and primal-dual algorithm？
+- September 21, 2019| 邀请南京航空航天大学 王丽平 教授来校学术交流, 报告题目：A Joint Matrix Minimization Approach for Seismic Wavefield Recovery.
+
 # Teaching
 >
