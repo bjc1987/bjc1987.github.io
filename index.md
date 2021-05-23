@@ -100,3 +100,8 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - Ph.D course: [Frontier courses in mathematics]
 - M.S. course: [Optimization theory and method], [Machine Learning, Dynamical Systems, and Control], [Convex algorithm and application]
 - B.S. course: [Linear algebra]
+
+### Contact Information
+Address: Department of Applied Mathematics, Northwestern Polytechnical University, Xi'an 710129, China
+
+Email: bjc1987@163.com or jianchaobai@nwpu.edu.cn
