@@ -14,7 +14,7 @@
 ### Research Field
 Currently I am interested in stochastic algorithms (e.g. _stochastic gradient method_, _ADMM_ and _proximal point algorithm_, _primal-dual method_) for solving the `non-smooth convex/nonconvex` programming problems arising in machine learning, statistical learning, image processing and so forth. Wellcome to [my official homepage](https://teacher.nwpu.edu.cn/jcbai) for more details.
 
-### Academic Achievements
+### Academic Service
 ★ **`Optimization methods including first-order methods`**
 
 - **J. Bai**, M. Zhang, H. Zhang. _An inexact ADMM for sepable nonconvex and nonsmooth optimization_, (2021) In preparation
