@@ -31,9 +31,8 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
  - 计算数学 (CSCD)
  - 数值计算与计算机科学 (CSCD)
  - 高等学校计算数学学报 (CSCD)
-★ 美国 Math Review 特邀评论员, 中国运筹会会员(S390021704M)，CSIAM会员(2600615M), 中国数学会会员(S010007511M), 陕西省自然科学基金通信评议专家 
 
-★ 复杂系统动力学与控制工信部重点实验室, 西安市科学计算与应用统计重点实验室成员
+★ 美国 Math Review 特邀评论员, 中国运筹会会员(S390021704M)，CSIAM会员(2600615M), 中国数学会会员(S010007511M), 陕西省自然科学基金通信评议专家, 复杂系统动力学与控制工信部重点实验室, 西安市科学计算与应用统计重点实验室成员
 ### Talks and conference
 1.
 2.
