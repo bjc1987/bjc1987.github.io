@@ -28,6 +28,11 @@ Reviewer of the journals
  - Numerical Algorithms (IF: 1.973, JCR-2)
  - Optimization Letters (IF: 1.399, JCR-3)
  - Signal Processing (IF: 4.086, JCR-2)
+ - 计算数学 (CSCD)
+ - 数值计算与计算机科学 (CSCD)
+ - 高等学校计算数学学报 (CSCD)
+★ 美国 Math Review 特邀评论员，中国运筹会会员(S390021704M)，CSIAM会员(2600615M)，中国数学会会员(S010007511M)，陕西省自然科学基金通信评议专家 
+★ 复杂系统动力学与控制工信部重点实验室、 西安市科学计算与应用统计重点实验室成员
 ### Talks and conference
 1.
 2.
