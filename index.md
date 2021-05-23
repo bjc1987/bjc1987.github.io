@@ -102,5 +102,5 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - B.S. course: [Linear algebra]
 
 ### Contact Information
-- Address: Department of Applied Mathematics, Northwestern Polytechnical University, Xi'an 710129, China
+- Address: School of Mathematics and Statistics, Northwestern Polytechnical University, Xi'an 710129, China
 - Email: bjc1987@163.com or jianchaobai@nwpu.edu.cn
