@@ -13,6 +13,7 @@ Working experience
  - Oct. - Oct. 2016, Southern University of Science and Technology, Visit Prof. [**Bingsheng He**](http://maths.nju.edu.cn/~hebma/)
 # Research
 ## Summary
+Currently I am interested in stochastic algorithms (e.g. stochastic gradient method, ADMM and proximal point algorithm) for solving the non-smooth convex/nonconvex programming problems arising in machine learning, statistical learning, image processing and so forth. Wellcome to my official homepage https://teacher.nwpu.edu.cn/jcbai for more details.
 ## Publications
 ### Preprints
 ### Papers
