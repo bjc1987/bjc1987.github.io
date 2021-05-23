@@ -13,8 +13,7 @@
 ### Scientific Research
 Currently I am interested in stochastic algorithms (e.g. _stochastic gradient method_, _ADMM_ and _proximal point algorithm_, _primal-dual method_) for solving the `non-smooth convex/nonconvex` programming problems arising in machine learning, statistical learning, image processing and so forth. Wellcome to [my official homepage](https://teacher.nwpu.edu.cn/jcbai) for more details.
 ### Academic Achievements
-`Optimization methods including first-order methods and others`
-
+**`Optimization methods including first-order methods and others`**
 [15] J. Bai, M. Zhang, H. Zhang. _An inexact ADMM for sepable nonconvex and nonsmooth optimization_, (2021) In preparation
 
 [14] J. Bai, D. Han, H. Sun, H. Zhang. _Convergence analysis of an  inexact accelerated stochastic ADMM with larger stepsizes_, (2020) Under review 
@@ -45,8 +44,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 [1] J. Bai,  J. Li, F. Xu, H. Zhang. _Generalized symmetric ADMM for separable convex optimization_, Computational Optimization and Applications, 70(1):129-170 (2018) (JCR-2)
 
-`Numerical algebra including low-rank approximation, complementarity problem and others`
-
+**`Numerical algebra including low-rank approximation, complementarity problem and others`**
 [16] J. Bai,  C. Chen, X. Gu. _Two alternating iterative methods and their preconditioned versions for solving the absolute value equations_, (2021)  In preparation
 
 [15] P. Dai, J. Bai,  J. Li. _A general preconditioner for tensor complementarity problem_, (2020)  Under review
