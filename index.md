@@ -13,7 +13,7 @@
 ### Scientific Research
 Currently I am interested in stochastic algorithms (e.g. _stochastic gradient method_, _ADMM_ and _proximal point algorithm_, _primal-dual method_) for solving the `non-smooth convex/nonconvex` programming problems arising in machine learning, statistical learning, image processing and so forth. Wellcome to [my official homepage](https://teacher.nwpu.edu.cn/jcbai) for more details.
 ### Academic Achievements
-**`Optimization methods including first-order methods and others`**
+**`Optimization methods including first-order methods etc`**
 
 - J. Bai, M. Zhang, H. Zhang. _An inexact ADMM for sepable nonconvex and nonsmooth optimization_, (2021) In preparation
 - J. Bai, D. Han, H. Sun, H. Zhang. _Convergence analysis of an  inexact accelerated stochastic ADMM with larger stepsizes_, (2020) Under review 
@@ -31,7 +31,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - J. Bai,  H. Zhang, J. Li. _A parameterized proximal point algorithm for separable convex optimization_, Optimization Letters, 12(7):1589-1608 (2018) (JCR-3)
 - J. Bai,  J. Li, F. Xu, H. Zhang. _Generalized symmetric ADMM for separable convex optimization_, Computational Optimization and Applications, 70(1):129-170 (2018) (JCR-2)
 
-**`Numerical algebra including low-rank approximation, complementarity problem and others`**
+**`Numerical algebra including low-rank approximation, complementarity problem etc`**
 - J. Bai,  C. Chen, X. Gu. _Two alternating iterative methods and their preconditioned versions for solving the absolute value equations_, (2021)  In preparation
 - P. Dai, J. Bai,  J. Li. _A general preconditioner for tensor complementarity problem_, (2020)  Under review
 - P. Dai, J. Li, J. Bai,  L. Dong. _Notes on new error bounds for linear complementarity problems of Nekrasov matrices, B-Nekrasov matrices and QN-matrices_, Numerical Mathematics: Theory, Methods and Applications, 12: 1191-1212 (2019) (JCR-2)
