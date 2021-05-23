@@ -69,7 +69,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ★ 美国 Math Review 特邀评论员, 中国运筹会会员(S390021704M)，CSIAM会员(2600615M), 中国数学会会员(S010007511M), 陕西省自然科学基金通信评议专家, 复杂系统动力学与控制工信部重点实验室, 西安市科学计算与应用统计重点实验室成员
 ### Talks and conference
-1. Report on converfence/at univerisity
+1. **`Report on converfence/at univerisity`**
 - April 21, 2021| Report on “Deterministic and stochastic ADMM for structured convex optimization”. Beihang University, China. (invited by Prof. Jiaxin Xie)  
 - December 19, 2020| Report on “Deterministic and stochastic ADMM for nonsmooth separable convex optimization”. Changsha University of Science & Technology, China. (invited by Prof. Weijun Zhou)  
 - November 5, 2020| Report on “ADMM and its varaints for separable convex optimization”. Guangxi University, China. (invited by Prof. Gonglin Yuan)  
@@ -82,7 +82,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - February 21, 2018| Report on “Generalized/linearized symmetric ADMM for separable convex optimization”. Tulane University, USA. (invited by Prof. Y.P. Wang)
 - February 2-3, 2018| Report on “Generalized symmetric ADMM for separable convex optimization”. SCALA 2018 - Scientic Computing aroud Louisiana, Louisiana State University, USA.
 - April 23-27, 2016| Report “On the low rank solution of the Q-weighted nearest correlation matrix problem”. Shenzhen University, China. (invited by Prof. G. Li) 
-2. Invited talk
+2. **`Invited talk`**
 - May 29-30, 2021| 主办“非凸优化与分布式优化的理论、算法及应用国际研讨会”，国家天元数学西北中心资助，召集人.new.jpg
 - May 20, 2021| 主办算子分裂法及其应用研讨会(II), 报告人：周伟军(长沙理工大学)、Yuntong Bai (Tulane University),  腾讯会议.
 - March 27, 2021| 主办算子分裂法及其应用研讨会(I), 报告人：蒋建林(南京航空航天大学)、李敏(南京大学)、蔡邢菊(南京师范大学), 腾讯会议.
