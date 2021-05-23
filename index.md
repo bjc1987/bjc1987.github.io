@@ -79,7 +79,6 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 [1] X. Duan, J. Bai(通讯作者), M. Zhang, X. Zhang. On the generalized low rank approximation of the correlation matrices arising in the asset portfolio, Linear Algebra and its Applications, 461:1-17 (2014) (硕导为一作, JCR-3)
 
-For  PDF file of the above researches, please click the title or find it from [My Reseachgate](https://www.researchgate.net/profile/Jianchao_Bai3)
 ### Social Appointments
 ★ Reviewer of the journals
  - Automatica (IF: 6.355, JCR-2)
