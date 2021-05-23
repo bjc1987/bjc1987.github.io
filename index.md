@@ -17,9 +17,9 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 [15] J. Bai, M. Zhang, H. Zhang. An inexact ADMM for sepable nonconvex and nonsmooth optimization, (2021) In preparation
 
-[14] J. Bai, D. Han, H. Sun, H. Zhang. Convergence analysis of an  inexact accelerated stochastic ADMM with larger stepsizes, (2020) Under review  hot.png
+[14] J. Bai, D. Han, H. Sun, H. Zhang. Convergence analysis of an  inexact accelerated stochastic ADMM with larger stepsizes, (2020) Under review 
 
-[13] J. Bai, W. Hager, H. Zhang. Accelerated stochastic ADMM for separable convex optimization,  (2020) Under  reviewhot.png
+[13] J. Bai, W. Hager, H. Zhang. Accelerated stochastic ADMM for separable convex optimization,  (2020) Under review
 
 [12] J. Bai,  J. Liang, K. Guo, Y. Jing, H. So. Accelerated symmetric ADMM and its applications in signal processing, (2019) Under review
 
@@ -41,9 +41,9 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 [3] J. Bai,  J. Li, F. Xu. Accelerated method for optimization over density matrices in quantum state estimation, Linear and Multilinear Algebra, 66(5):869-880 (2018) (JCR-3)
 
-[2] J. Bai,  H. Zhang, J. Li. A parameterized proximal point algorithm for separable convex optimization, Optimization Letters, 12(7):1589-1608 (2018) (JCR-3)hot.png
+[2] J. Bai,  H. Zhang, J. Li. A parameterized proximal point algorithm for separable convex optimization, Optimization Letters, 12(7):1589-1608 (2018) (JCR-3)
 
-[1] J. Bai,  J. Li, F. Xu, H. Zhang. Generalized symmetric ADMM for separable convex optimization, Computational Optimization and Applications, 70(1):129-170 (2018) (JCR-2)hot.png
+[1] J. Bai,  J. Li, F. Xu, H. Zhang. Generalized symmetric ADMM for separable convex optimization, Computational Optimization and Applications, 70(1):129-170 (2018) (JCR-2)
 
 ★ `Numerical algebra including low-rank approximation, complementarity problem and others`
 
@@ -69,11 +69,11 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 [6] J. Bai,  J. Li, P. Dai. Novel alternating update method for low rank approximation of structured matrices, Applied Numerical Mathematics, 121:223-233 (2017) (JCR-2)
 
-[5] P. Dai, J. Li, Y. Li, J. Bai. A general preconditioner for linear complementarity problem with an M-matrix, Journal of Computational and Applied Mathematics, 317:100-112 (2017) (JCR-2, Top)hot.png
+[5] P. Dai, J. Li, Y. Li, J. Bai. A general preconditioner for linear complementarity problem with an M-matrix, Journal of Computational and Applied Mathematics, 317:100-112 (2017) (JCR-2, Top)
 
 [4] 白建超, 李继成, 李文博. 一类Stifel流形上极小化问题的低秩解, 高等学校计算数学学报, 39(1):31-42 (2017) 
 
-[3] X. Duan, J. Bai,  J. Li, J. Peng. On the low rank solution of the Q-weighted nearest correlation matrix problem, Numerical Linear Algebra with Applications, 23(2):340-355 (2016) (硕导为一作, JCR-2)hot.png
+[3] X. Duan, J. Bai,  J. Li, J. Peng. On the low rank solution of the Q-weighted nearest correlation matrix problem, Numerical Linear Algebra with Applications, 23(2):340-355 (2016) (硕导为一作, JCR-2)
 
 [2] J. Bai  X. Duan, K. Cheng, X. Zhang. A class of weighted low rank approximation of the positive semidefinite Hankel matrix. Journal of Applied Mathematics. Atricle ID 937 573 (2015) 7 pages. 
 
