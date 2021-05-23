@@ -92,7 +92,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - November 14, 2020, 主办最优化进展主题研讨会(二), 报告人：罗和治(浙江理工大学)、胡耀华(深圳大学)、孙聪(北京邮电大学), 腾讯会议.
 - September 26, 2020, 主办最优化进展主题研讨会(一), 报告人：陈加伟(西南大学)、Yangyang Xu(伦斯勒理工大学)、韩德仁(北京航空航天大学), 腾讯会议.
 - June 30, 2020, 邀请香港理工大学 孙德锋 教授在线学术交流, 报告题目：Solving Statistical Optimization Problems: Second Order Methods with First Order Complexities or Less.
-- May 18, 2020| 邀请大连理工大学 张立卫 教授在线学术交流, 报告题目：在线复合优化的一个交替乘子方向方法.
+- May 18, 2020, 邀请大连理工大学 张立卫 教授在线学术交流, 报告题目：在线复合优化的一个交替乘子方向方法.
 - September 22, 2019, 邀请南京大学 杨俊锋 教授来校学术交流, 报告题目：Tight Sublinear Convergence Rate of the Proximal Point Algorithm.
 - September 21, 2019, 邀请兰州理工大学 常小凯 副教授来校学术交流, 报告题目：How to get a proper step size for forward-backward splitting method and primal-dual algorithm？
 - September 21, 2019, 邀请南京航空航天大学 王丽平 教授来校学术交流, 报告题目：A Joint Matrix Minimization Approach for Seismic Wavefield Recovery.
