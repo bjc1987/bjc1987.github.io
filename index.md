@@ -98,6 +98,6 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - September 21, 2019, 邀请南京航空航天大学 王丽平 教授来校学术交流, 报告题目：A Joint Matrix Minimization Approach for Seismic Wavefield Recovery.
 
 # Teaching
-- Ph.D course: **Frontier courses in mathematics**
-- M.S. course: **Optimization theory and method**, **Machine Learning, Dynamical Systems, and Control**, **Convex algorithm and application**
-- B.S. course: **Linear algebra**
+- Ph.D course: <Frontier courses in mathematics>
+- M.S. course: <Optimization theory and method>, <Machine Learning, Dynamical Systems, and Control>, <Convex algorithm and application>
+- B.S. course: <Linear algebra>
