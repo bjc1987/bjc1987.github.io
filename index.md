@@ -9,8 +9,8 @@ Working experience
  - March, 2019-Now, Northwestern Polytechnical University, Associate professor
  - December 2019-Now, Northwestern Polytechnical University, Postdoctor, co-advisor: Prof. [**Hao Sun**](https://teacher.nwpu.edu.cn/sunhao.html)
  - April-May, 2021, Chinese Academy of Sciences, Visit Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
- - Oct. - Oct. 2019, Beihang University, Visit Prof. [**Deren Han](http://math.buaa.edu.cn/szdw/azcck/js/hdr.htm)
- - Oct. - Oct. 2016, Southern University of Science and Technology, Visit Prof. [**Bingsheng He](http://maths.nju.edu.cn/~hebma/)
+ - Oct. - Oct. 2019, Beihang University, Visit Prof. [**Deren Han**](http://math.buaa.edu.cn/szdw/azcck/js/hdr.htm)
+ - Oct. - Oct. 2016, Southern University of Science and Technology, Visit Prof. [**Bingsheng He**](http://maths.nju.edu.cn/~hebma/)
 ## Research
 ### Summary
 ### Publications
