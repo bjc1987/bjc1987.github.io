@@ -1,7 +1,7 @@
 ### Education 
  - Joint Ph.D. Louisiana State University, Co-advisor: Prof. [**Hongchao Zhang**](https://www.math.lsu.edu/~hozhang/)
  - Ph.D. Xi'an Jiaotong University, Advisor: Prof. [**Jicheng Li**](http://gr.xjtu.edu.cn/en/web/jcli)
- - B.S. Guilin University Of Electronic Technology, Advisor: Prof. [**Xuefeng Duan**](https://www.guet.edu.cn/people/info/1003/1758.htm)
+ - B.S. Guilin University of Electronic Technology, Advisor: Prof. [**Xuefeng Duan**](https://www.guet.edu.cn/people/info/1003/1758.htm)
  - M.S. Yan'an University, Supervisor: Prof. **Jinbao Guo**
  
 ### Working Experience
@@ -81,7 +81,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - February 21, 2018, Report on “Generalized/linearized symmetric ADMM for separable convex optimization”. Tulane University, USA. (invited by Prof. Y.P. Wang)
 - February 2-3, 2018, Report on “Generalized symmetric ADMM for separable convex optimization”. SCALA 2018 - Scientic Computing aroud Louisiana, Louisiana State University, USA.
 - April 23-27, 2016, Report “On the low rank solution of the Q-weighted nearest correlation matrix problem”. Shenzhen University, China. (invited by Prof. G. Li) 
-2. **`Conference and inviting talks`**
+2. **`Organized conference and inviting talks`**
 - May 29-30, 2021, 主办“非凸优化与分布式优化的理论、算法及应用国际研讨会”，国家天元数学西北中心资助，召集人.new.jpg
 - May 20, 2021, 主办算子分裂法及其应用研讨会(II), 报告人：周伟军(长沙理工大学)、Yuntong Bai (Tulane University),  腾讯会议.
 - March 27, 2021, 主办算子分裂法及其应用研讨会(I), 报告人：蒋建林(南京航空航天大学)、李敏(南京大学)、蔡邢菊(南京师范大学), 腾讯会议.
