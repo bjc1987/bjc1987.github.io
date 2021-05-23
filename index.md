@@ -15,8 +15,19 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 ### Academic Achievements
 
 ### Social Appointments
-1.
-2.
+Reviewer of the journals
+   Automatica (IF: 6.355, JCR-2)
+   Applied Numerical Mathematics (IF: 1.678, JCR-2)
+   Computational and Applied Mathematics (IF: 1.260, JCR-3)
+   Computational optimization and applications (IF: 1.906, JCR-2)
+   Calcolo (IF:1.521, JCR-2)
+   FILOMAT (IF: 0.789, JCR-4)
+   IEEE Access (IF: 4.098, JCR-2)
+   Journal of Global Optimization (IF: 1.631, JCR-3)
+   Journal of the Operations Research Society of China
+   Numerical Algorithms (IF: 1.973, JCR-2)
+   Optimization Letters (IF: 1.399, JCR-3)
+   Signal Processing (IF: 4.086, JCR-2)
 ### Talks and conference
 1.
 2.
