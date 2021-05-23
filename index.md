@@ -11,7 +11,7 @@
  - Oct. - Oct. 2019, Beihang University, Visit Prof. [**Deren Han**](http://math.buaa.edu.cn/szdw/azcck/js/hdr.htm)
  - Oct. - Oct. 2016, Southern University of Science and Technology, Visit Prof. [**Bingsheng He**](http://maths.nju.edu.cn/~hebma/)
 ### Scientific Research
-Currently I am interested in stochastic algorithms (e.g. stochastic gradient method, ADMM and proximal point algorithm) for solving the non-smooth convex/nonconvex programming problems arising in machine learning, statistical learning, image processing and so forth. Wellcome to my official homepage https://teacher.nwpu.edu.cn/jcbai for more details.
+Currently I am interested in stochastic algorithms (e.g. _stochastic gradient method_, _ADMM_ and _proximal point algorithm_) for solving the non-smooth convex/nonconvex programming problems arising in machine learning, statistical learning, image processing and so forth. Wellcome to my official homepage https://teacher.nwpu.edu.cn/jcbai for more details.
 ### Academic Achievements
 
 ### Social Appointments
@@ -23,4 +23,4 @@ Currently I am interested in stochastic algorithms (e.g. stochastic gradient met
 # Teaching
 -
 
- _Italic_ and `Code` text
+ `Code` text
