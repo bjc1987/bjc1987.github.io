@@ -1,4 +1,5 @@
 # Biography
+# Research
 ### Education 
  - Joint Ph.D. Louisiana State University, Co-Advisor: Prof. [**Hongchao Zhang**](https://www.math.lsu.edu/~hozhang/)
  - Ph.D. Xi'an Jiaotong University, Advisor: Prof. [**Jicheng Li**](http://gr.xjtu.edu.cn/en/web/jcli)
@@ -11,7 +12,7 @@
  - April-May, 2021, Chinese Academy of Sciences, Visit Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
  - Oct. - Oct. 2019, Beihang University, Visit Prof. [**Deren Han**](http://math.buaa.edu.cn/szdw/azcck/js/hdr.htm)
  - Oct. - Oct. 2016, Southern University of Science and Technology, Visit Prof. [**Bingsheng He**](http://maths.nju.edu.cn/~hebma/)
-# Research
+
 ### Summary
 Currently I am interested in stochastic algorithms (e.g. stochastic gradient method, ADMM and proximal point algorithm) for solving the non-smooth convex/nonconvex programming problems arising in machine learning, statistical learning, image processing and so forth. Wellcome to my official homepage https://teacher.nwpu.edu.cn/jcbai for more details.
 ### Publications
