@@ -14,7 +14,7 @@
 ### Research Field
 Currently I am interested in stochastic algorithms (e.g. _stochastic gradient method_, _ADMM_ and _proximal point algorithm_, _primal-dual method_) for solving the `non-smooth convex/nonconvex` programming problems arising in machine learning, statistical learning, image processing and so forth. Wellcome to [my official homepage](https://teacher.nwpu.edu.cn/jcbai) for more details.
 
-### Academic Service
+### Academic Achievements
 ★ **`Optimization methods including first-order methods`**
 
 - **J. Bai**, M. Zhang, H. Zhang. _An inexact ADMM for sepable nonconvex and nonsmooth optimization_, (2021) In preparation
@@ -48,7 +48,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - **J. Bai**  X. Duan, K. Cheng, X. Zhang. _A class of weighted low rank approximation of the positive semidefinite Hankel matrix_. Journal of Applied Mathematics. Atricle ID 937 573 (2015) 7 pages. 
 - X. Duan, **J. Bai**(Corresponding author), M. Zhang, X. Zhang. _On the generalized low rank approximation of the correlation matrices arising in the asset portfolio_, Linear Algebra and its Applications, 461:1-17 (2014) (JCR-3)
 
-### Social Appointments
+### Social Service
 ★ Reviewer of the journals
  - Automatica (IF: 6.355, JCR-2)
  - Applied Numerical Mathematics (IF: 1.678, JCR-2)
