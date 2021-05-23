@@ -62,7 +62,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
  - Numerical Algorithms (IF: 1.973, JCR-2)
  - Optimization Letters (IF: 1.399, JCR-3)
  - Signal Processing (IF: 4.086, JCR-2)
- - Mathematica Numerica Sinica (CSCD)
+ - Mathematica Numerica Sinica, Chinese Series (CSCD)
  - Journal of Numerical Methods and Computer Applications, Chinese Series (CSCD)
  - Numerical Mathematics: A Journal of Chinese Universities, Chinese Series (CSCD)
 
