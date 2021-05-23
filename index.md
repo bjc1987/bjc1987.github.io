@@ -69,7 +69,19 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ★ 美国 Math Review 特邀评论员, 中国运筹会会员(S390021704M)，CSIAM会员(2600615M), 中国数学会会员(S010007511M), 陕西省自然科学基金通信评议专家, 复杂系统动力学与控制工信部重点实验室, 西安市科学计算与应用统计重点实验室成员
 ### Talks and conference
-1.
+1. Converfence/invited talk
+- April 21, 2021| Report on “Deterministic and stochastic ADMM for structured convex optimization”. Beihang University, China. (invited by Prof. Jiaxin Xie)  
+- December 19, 2020| Report on “Deterministic and stochastic ADMM for nonsmooth separable convex optimization”. Changsha University of Science & Technology, China. (invited by Prof. Weijun Zhou)  
+- November 5, 2020| Report on “ADMM and its varaints for separable convex optimization”. Guangxi University, China. (invited by Prof. Gonglin Yuan)  
+- October 15-18, 2020| Report on “Deterministic and stochastic ADMM for separable convex optimization”. ORSC2020, University of Science and Technology of China, China.
+- November 29, 2019| Report on “ADMM for separable convex and nonconvex optimization”. Xinyang Normal University, China. (invited by Dr. Yongchao Yu)  
+- November 4, 2019| Report on “ADMM for separable convex and nonconvex optimization”. Southwestern University of Finance and Economics, China. (invited by Prof. X.M. Gu and J.T. Ma)  
+- October 18-19, 2019| Report on “ADMM for separable structured optimization: from deterministic to stochastic, and convex to nonconvex”. 2019 Seminar on Advances in Big-data Optimization，China West Normal University，China.
+- July 31- August 4, 2019| Report on "Generalized symmetric ADMM for separable convex optimization". The 12-th Conference on Computational Mathematics (Section Chair), Harbin Institute of Technology, China.
+- September 4, 2018| Report on “Deterministic and Stochastic ADMM for Structured Convex Optimization”. Louisiana State University, USA.  (invited by Prof. S.C. Brenner and H.C. Zhang)
+- February 21, 2018| Report on “Generalized/linearized symmetric ADMM for separable convex optimization”. Tulane University, USA. (invited by Prof. Y.P. Wang)
+- February 2-3, 2018| Report on “Generalized symmetric ADMM for separable convex optimization”. SCALA 2018 - Scientic Computing aroud Louisiana, Louisiana State University, USA.
+- April 23-27, 2016| Report “On the low rank solution of the Q-weighted nearest correlation matrix problem”. Shenzhen University, China. (invited by Prof. G. Li) 
 2.
 # Teaching
 >
