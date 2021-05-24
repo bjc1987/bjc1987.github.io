@@ -66,7 +66,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
  - Journal of Numerical Methods and Computer Applications, Chinese Series (CSCD)
  - Numerical Mathematics: A Journal of Chinese Universities, Chinese Series (CSCD)
 
-★ Guest commentator of Math Review; Member of ORSCCSIAM(2600615M), CMS(S010007511M), MIIT Key Laboratory of Dynamics and Control of Complex Systems, etc
+★ Guest commentator of Math Review; Member of ORSC(S390021704M), CSIAM(2600615M), CMS(S010007511M), MIIT Key Laboratory of Dynamics and Control of Complex Systems, etc
 ### Talks and conference
 1. **`Invited talks`**
 - April 21, 2021, Report on “Deterministic and stochastic ADMM for structured convex optimization”. Beihang University, China. (invited by Prof. Jiaxin Xie)  
