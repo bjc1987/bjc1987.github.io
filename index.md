@@ -82,7 +82,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - February 2-3, 2018, Report on “Generalized symmetric ADMM for separable convex optimization”. SCALA 2018 - Scientic Computing aroud Louisiana, Louisiana State University, USA.
 - April 23-27, 2016, Report “On the low rank solution of the Q-weighted nearest correlation matrix problem”. Shenzhen University, China. (invited by Prof. G. Li) 
 2. **`Organized conference and inviting talks`**
-- May 29-30, 2021, “[International Conference on Nonconvex and Distributed Optimization: Theory, Algorithm and Applications](http://www.orsc.org.cn/news.php?cid=128&id=623)”, Supported by Tianyuan Mathematical Center in Northwest China，Organizer
+- May 29-30, 2021, “[International Conference on Nonconvex and Distributed Optimization: Theory, Algorithm and Applications](http://www.orsc.org.cn/news.php?cid=128&id=623)”, Supported by Tianyuan Mathematical Center in Northwest China, Organizer
 - May 20, 2021, 主办算子分裂法及其应用研讨会(II), 报告人：周伟军(长沙理工大学)、Yuntong Bai (Tulane University),  腾讯会议.
 - March 27, 2021, 主办算子分裂法及其应用研讨会(I), 报告人：蒋建林(南京航空航天大学)、李敏(南京大学)、蔡邢菊(南京师范大学), 腾讯会议.
 - December 27, 2020, 主办最优化进展主题研讨会(三), 报告人：陈彩华(南京大学)、常小凯(兰州理工大学)、吴中明(南京信息工程大学), 腾讯会议.
