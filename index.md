@@ -36,17 +36,17 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 ★ **`Numerical algebra including low-rank approximation & complementarity problem`**
 - **J. Bai**,  C. Chen, X. Gu. _Two alternating iterative methods and their preconditioned versions for solving the absolute value equations_, (2021)  In preparation
 - P. Dai, **J. Bai**,  J. Li. _A general preconditioner for tensor complementarity problem_, (2020)  Under review
-- P. Dai, J. Li, **J. Bai**,  L. Dong. _Notes on new error bounds for linear complementarity problems of Nekrasov matrices, B-Nekrasov matrices and QN-matrices_, Numerical Mathematics: Theory, Methods and Applications, 12: 1191-1212 (2019) (JCR-2)
-- P. Dai, J. Li, **J. Bai**,  L. Dong. _New error bounds for linear complementarity problems of S-Nekrasov matrices and B-S-Nekrasov matrices_, Computational and Applied Mathematics, 38: 61(2019) (JCR-3) 
-- P. Dai, J. Li, **J. Bai**,  J. Qiu. _A preconditioned two-step modulus-based matrix splitting iteration method for linear complementarity problem_, Applied Mathematics and Computation,348: 542-551 (2019) (JCR-1, Top)
-- **J. Bai**,  J. Li, F. Xu, P. Dai. _A novel method for a class of structured low rank minimization with equality constraint_, Journal of Computational and Applied Mathematics, 330:475-487 (2018) (JCR-2, Top)
-- **J. Bai**,  J. Li, J. Deng. _A class of multilevel structured low-rank approximation arising in material processing_, International Journal of Computer Mathematics, 95(2): 329-340 (2018) (JCR-3)
-- Z. Liu, J. Li, G. Li, **J. Bai**,  X. Liu. _A new model for sparse and low rank matrix decomposition_, Journal of Applied Analysis and Computation, 7(2):600-616 (2017) (JCR-4)
-- **J. Bai**,  J. Li, P. Dai. _Novel alternating update method for low rank approximation of structured matrices_, Applied Numerical Mathematics, 121:223-233 (2017) (JCR-2)
-- P. Dai, J. Li, Y. Li, **J. Bai**. _A general preconditioner for linear complementarity problem with an M-matrix_, Journal of Computational and Applied Mathematics, 317:100-112 (2017) (JCR-2, Top)
-- X. Duan, **J. Bai**,  J. Li, J. Peng. _On the low rank solution of the Q-weighted nearest correlation matrix problem_, Numerical Linear Algebra with Applications, 23(2):340-355 (2016) (JCR-2)
-- **J. Bai**  X. Duan, K. Cheng, X. Zhang. _A class of weighted low rank approximation of the positive semidefinite Hankel matrix_. Journal of Applied Mathematics. Atricle ID 937 573 (2015) 7 pages. 
-- X. Duan, **J. Bai**(Corresponding author), M. Zhang, X. Zhang. _On the generalized low rank approximation of the correlation matrices arising in the asset portfolio_, Linear Algebra and its Applications, 461:1-17 (2014) (JCR-3)
+- P. Dai, J. Li, **J. Bai**,  L. Dong. [_Notes on new error bounds for linear complementarity problems of Nekrasov matrices, B-Nekrasov matrices and QN-matrices_](https://www.global-sci.org/intro/article_detail/nmtma/13220.html), Numerical Mathematics: Theory, Methods and Applications, 12: 1191-1212 (2019) (JCR-2)
+- P. Dai, J. Li, **J. Bai**,  L. Dong. [_New error bounds for linear complementarity problems of S-Nekrasov matrices and B-S-Nekrasov matrices_](https://link.springer.com/article/10.1007/s40314-019-0818-4), Computational and Applied Mathematics, 38: 61(2019) (JCR-3) 
+- P. Dai, J. Li, **J. Bai**,  J. Qiu. [_A preconditioned two-step modulus-based matrix splitting iteration method for linear complementarity problem_](https://www.sciencedirect.com/science/article/pii/S0096300318310531), Applied Mathematics and Computation,348: 542-551 (2019) (JCR-1, Top)
+- **J. Bai**,  J. Li, F. Xu, P. Dai. [_A novel method for a class of structured low rank minimization with equality constraint_](https://www.sciencedirect.com/science/article/pii/S0377042717304521), Journal of Computational and Applied Mathematics, 330:475-487 (2018) (JCR-2, Top)
+- **J. Bai**,  J. Li, J. Deng. [_A class of multilevel structured low-rank approximation arising in material processing_](https://www.tandfonline.com/doi/ref/10.1080/00207160.2017.1285020), International Journal of Computer Mathematics, 95(2): 329-340 (2018) (JCR-3)
+- Z. Liu, J. Li, G. Li, **J. Bai**,  X. Liu. [_A new model for sparse and low rank matrix decomposition_](http://jaac.ijournal.cn/ch/reader/view_abstract.aspx?file_no=JAAC-2016-0010), Journal of Applied Analysis and Computation, 7(2):600-616 (2017) (JCR-4)
+- **J. Bai**,  J. Li, P. Dai. [_Novel alternating update method for low rank approximation of structured matrices_](https://www.sciencedirect.com/science/article/pii/S0168927417301599), Applied Numerical Mathematics, 121:223-233 (2017) (JCR-2)
+- P. Dai, J. Li, Y. Li, **J. Bai**. [_A general preconditioner for linear complementarity problem with an M-matrix_](https://www.sciencedirect.com/science/article/pii/S0377042716305763), Journal of Computational and Applied Mathematics, 317:100-112 (2017) (JCR-2, Top)
+- X. Duan, **J. Bai**,  J. Li, J. Peng. [_On the low rank solution of the Q-weighted nearest correlation matrix problem_](https://www.onlinelibrary.wiley.com/doi/full/10.1002/nla.2027), Numerical Linear Algebra with Applications, 23(2):340-355 (2016) (JCR-2)
+- **J. Bai**  X. Duan, K. Cheng, X. Zhang. [_A class of weighted low rank approximation of the positive semidefinite Hankel matrix_](https://www.hindawi.com/journals/jam/2015/937573/). Journal of Applied Mathematics. Atricle ID 937 573 (2015) 7 pages. 
+- X. Duan, **J. Bai**(Corresponding author), M. Zhang, X. Zhang. [_On the generalized low rank approximation of the correlation matrices arising in the asset portfolio_](https://www.sciencedirect.com/science/article/pii/S0024379514004765), Linear Algebra and its Applications, 461:1-17 (2014) (JCR-3)
 
 ### Social Service
 ★ Reviewer of the journals
