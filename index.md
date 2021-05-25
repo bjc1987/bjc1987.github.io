@@ -22,16 +22,16 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - **J. Bai**, W. Hager, H. Zhang. [_Accelerated stochastic ADMM for separable convex optimization_](https://arxiv.org/abs/2010.12765),  (2020) Under review
 - **J. Bai**,  J. Liang, K. Guo, Y. Jing, H. So. [_Accelerated symmetric ADMM and its applications in signal processing_](https://arxiv.org/abs/1906.12015), (2019) Under review
 - X. Chang,**J. Bai**(Corresponding author). _A projected extrapolated gradient method with larger step size for monotone variational inequalities_, (2021), Under review
-- **J. Bai**,  Y. Ma, H. Sun, M. Zhang. _Iteration complexity analysis of a partial LQP-based alternating direction method of multipliers_, Applied Numerical Mathematics, 165: 500-518, (2021)  (JCR-2)
-- **J. Bai**,  X. Chang, J. Li, F. Xu. _Convergence revisit on generalized symmetric ADMM_, Optimization, 70: 149-168, (2021)  (JCR-3)
-- Y. Bai, Y. Gong, **J. Bai**,  et al. _A joint analysis of multi-paradigm fMRI data with its applications to cognitive study_, IEEE Transactions on Medical Imaging, 40(3): 951-962, (2021) (JCR-1, Top)
-- X. Chang, **J. Bai**(Corresponding author), D. Song, S. Liu. _Linearized symmetric multi-block ADMM with indefinite proximal regularization and optimal proximal parameter_, Calcolo, 57: 38 (2020) (JCR-2)
-- **J. Bai**,  J. Li, Z. Wu. _Several variants of the primal-dual hybrid gradient algorithm with applications_, Numerial Mathematics: Theory, Methods and Applications, 13(1): 176-199 (2020) (JCR-2)
-- **J. Bai**,  K.Guo, X. Chang. _A family of multi-parameterized proximal point algorithms_, IEEE Access, 7(1): 164021-164028 (2019) (JCR-2, Top)
-- **J. Bai**,  J. Li, P. Dai, J. Li. _General parameterized proximal point algorithm with applications in the statistical learning_, International Journal of Computer Mathematics, 96(1): 199-215 (2019) (JCR-3)
-- **J. Bai**,  J. Li, F. Xu. _Accelerated method for optimization over density matrices in quantum state estimation_, Linear and Multilinear Algebra, 66(5):869-880 (2018) (JCR-3)
-- **J. Bai**,  H. Zhang, J. Li. _A parameterized proximal point algorithm for separable convex optimization_, Optimization Letters, 12(7):1589-1608 (2018) (JCR-3)
-- **J. Bai**,  J. Li, F. Xu, H. Zhang. _Generalized symmetric ADMM for separable convex optimization_, Computational Optimization and Applications, 70(1):129-170 (2018) (JCR-2)
+- **J. Bai**,  Y. Ma, H. Sun, M. Zhang. [_Iteration complexity analysis of a partial LQP-based alternating direction method of multipliers_](https://arxiv.org/abs/2010.12765), Applied Numerical Mathematics, 165: 500-518, (2021)  (JCR-2)
+- **J. Bai**,  X. Chang, J. Li, F. Xu. [_Convergence revisit on generalized symmetric ADMM_](https://www.tandfonline.com/doi/full/10.1080/02331934.2019.1704754), Optimization, 70: 149-168, (2021)  (JCR-3)
+- Y. Bai, Y. Gong, **J. Bai**,  et al. [_A joint analysis of multi-paradigm fMRI data with its applications to cognitive study_](https://ieeexplore.ieee.org/document/9284595), IEEE Transactions on Medical Imaging, 40(3): 951-962, (2021) (JCR-1, Top)
+- X. Chang, **J. Bai**(Corresponding author), D. Song, S. Liu. [_Linearized symmetric multi-block ADMM with indefinite proximal regularization and optimal proximal parameter_](https://link.springer.com/article/10.1007/s10092-020-00387-1), Calcolo, 57: 38 (2020) (JCR-2)
+- **J. Bai**,  J. Li, Z. Wu. [_Several variants of the primal-dual hybrid gradient algorithm with applications_](https://www.global-sci.org/intro/article_detail.html?journal=nmtma&article_id=13436), Numerial Mathematics: Theory, Methods and Applications, 13(1): 176-199 (2020) (JCR-2)
+- **J. Bai**,  K.Guo, X. Chang. [_A family of multi-parameterized proximal point algorithms_](https://ieeexplore.ieee.org/document/8894083/), IEEE Access, 7(1): 164021-164028 (2019) (JCR-2, Top)
+- **J. Bai**,  J. Li, P. Dai, J. Li. [_General parameterized proximal point algorithm with applications in the statistical learning_](https://www.tandfonline.com/doi/full/10.1080/00207160.2018.1427854), International Journal of Computer Mathematics, 96(1): 199-215 (2019) (JCR-3)
+- **J. Bai**,  J. Li, F. Xu. [_Accelerated method for optimization over density matrices in quantum state estimation_](https://www.tandfonline.com/doi/full/10.1080/03081087.2017.1330864), Linear and Multilinear Algebra, 66(5):869-880 (2018) (JCR-3)
+- **J. Bai**,  H. Zhang, J. Li. [_A parameterized proximal point algorithm for separable convex optimization_](https://link.springer.com/article/10.1007/s11590-017-1195-9), Optimization Letters, 12(7):1589-1608 (2018) (JCR-3)
+- **J. Bai**,  J. Li, F. Xu, H. Zhang. [_Generalized symmetric ADMM for separable convex optimization_](https://link.springer.com/article/10.1007/s10589-017-9971-0), Computational Optimization and Applications, 70(1):129-170 (2018) (JCR-2)
 
 ★ **`Numerical algebra including low-rank approximation & complementarity problem`**
 - **J. Bai**,  C. Chen, X. Gu. _Two alternating iterative methods and their preconditioned versions for solving the absolute value equations_, (2021)  In preparation
