@@ -18,9 +18,9 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 ★ **`Optimization methods including first-order methods`**
 
 - **J. Bai**, M. Zhang, H. Zhang. _An inexact ADMM for sepable nonconvex and nonsmooth optimization_, (2021) In preparation
-- **J. Bai**, D. Han, H. Sun, H. Zhang. _Convergence analysis of an  inexact accelerated stochastic ADMM with larger stepsizes_, (2020) Under review 
-- **J. Bai**, W. Hager, H. Zhang. _Accelerated stochastic ADMM for separable convex optimization_,  (2020) Under review
-- **J. Bai**,  J. Liang, K. Guo, Y. Jing, H. So. _Accelerated symmetric ADMM and its applications in signal processing_, (2019) Under review
+- **J. Bai**, D. Han, H. Sun, H. Zhang. [_Convergence analysis of an  inexact accelerated stochastic ADMM with larger stepsizes_](https://arxiv.org/abs/2103.16154), (2020) Under review 
+- **J. Bai**, W. Hager, H. Zhang. [_Accelerated stochastic ADMM for separable convex optimization_](https://arxiv.org/abs/2010.12765),  (2020) Under review
+- **J. Bai**,  J. Liang, K. Guo, Y. Jing, H. So. [_Accelerated symmetric ADMM and its applications in signal processing_](https://arxiv.org/abs/1906.12015), (2019) Under review
 - X. Chang,**J. Bai**(Corresponding author). _A projected extrapolated gradient method with larger step size for monotone variational inequalities_, (2021), Under review
 - **J. Bai**,  Y. Ma, H. Sun, M. Zhang. _Iteration complexity analysis of a partial LQP-based alternating direction method of multipliers_, Applied Numerical Mathematics, 165: 500-518, (2021)  (JCR-2)
 - **J. Bai**,  X. Chang, J. Li, F. Xu. _Convergence revisit on generalized symmetric ADMM_, Optimization, 70: 149-168, (2021)  (JCR-3)
