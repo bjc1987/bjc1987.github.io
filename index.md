@@ -83,8 +83,8 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - April 23-27, 2016, Report “On the low rank solution of the Q-weighted nearest correlation matrix problem”. Shenzhen University, China. (invited by Prof. G. Li) 
 2. **`Organized conference and inviting talks`**
 - May 29-30, 2021, “[International Conference on Nonconvex and Distributed Optimization: Theory, Algorithm and Applications](http://www.orsc.org.cn/news.php?cid=128&id=623)”, Supported by Tianyuan Mathematical Center in Northwest China, Organizer
-- May 20, 2021, Workshop on Operator Splitting Methods and Its Apllications(II), Reporter：Prof. Weijun Zhou、Dr. Yuntong Bai, Organizer.
-- March 27, 2021, Workshop on Operator Splitting Methods and Its Apllications(I), Reporter：Prof. Jianlin Jiang、Prof. Min Li、Prof. Xingju Cai, Organizer.
+- May 20, 2021, [Workshop on Operator Splitting Methods and Its Apllications(II)](http://math.nwpu.edu.cn/info/1052/2657.htm), Speaker：Prof. Weijun Zhou、Dr. Yuntong Bai, Organizer.
+- March 27, 2021, Workshop on Operator Splitting Methods and Its Apllications(I), Speaker：Prof. [Jianlin Jiang](http://math.nwpu.edu.cn/info/1052/2444.htm)、Prof. [Min Li](http://math.nwpu.edu.cn/info/1052/2446.htm)、Prof. [Xingju Cai](http://math.nwpu.edu.cn/info/1052/2442.htm), Organizer.
 - December 27, 2020, 主办最优化进展主题研讨会(三), 报告人：陈彩华(南京大学)、常小凯(兰州理工大学)、吴中明(南京信息工程大学), 腾讯会议.
 - November 27, 2020, 邀请湘潭大学 彭拯 教授线下学术交流, 报告题目：一种求解非光滑黎曼流形优化问题的非精确增广拉格朗日算法，地点：理学院214会议室.
 - November 21-22, 2020, 联合主办 “计算地球物理与偏微分方程反问题会议”, 国家天元数学西北中心资助，腾讯会议.
