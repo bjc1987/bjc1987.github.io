@@ -21,7 +21,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ### Research Grants
 - NFS of China, Study on structured optimization algorithms in large-scale data processing, 2021-2023.
-- China Postdoctoral Science Foundation， Novel alternating direction method with applications, 2021-2022.
+- China Postdoctoral Science Foundation, Novel alternating direction method with applications, 2021-2022.
 - Fundamental Research Funds for the Central Universities, Study on first-order algorithms for structured convex optimization, 2019-2021
 
 ### Academic Achievements
