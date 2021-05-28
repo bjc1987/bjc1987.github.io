@@ -3,16 +3,26 @@
  - Ph.D. Xi'an Jiaotong University, Advisor: Prof. [**Jicheng Li**](http://gr.xjtu.edu.cn/en/web/jcli)
  - B.S. Guilin University of Electronic Technology, Advisor: Prof. [**Xuefeng Duan**](https://www.guet.edu.cn/people/info/1003/1758.htm)
  - M.S. Yan'an University, Supervisor: Prof. **Jinbao Guo**
- 
-### Working Experience
+
+### Academic Experience
  - March, 2019-Now, Northwestern Polytechnical University, Associate professor
  - Dec. 2019-Now, Northwestern Polytechnical University, Postdoctor, co-advisor: Prof. [**Hao Sun**](https://teacher.nwpu.edu.cn/sunhao.html)
- - April-May, 2021, Chinese Academy of Sciences, Visit Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
- - Oct. - Oct. 2019, Beihang University, Visit Prof. [**Deren Han**](http://math.buaa.edu.cn/szdw/azcck/js/hdr.htm)
- - Oct. - Oct. 2016, Southern University of Science and Technology, Visit Prof. [**Bingsheng He**](http://maths.nju.edu.cn/~hebma/)
+ - April-May, 2021, Chinese Academy of Sciences, Visiting Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
+ - Oct. - Oct. 2019, Beihang University, Visiting Prof. [**Deren Han**](http://math.buaa.edu.cn/szdw/azcck/js/hdr.htm)
+ - Oct. - Oct. 2016, Southern University of Science and Technology, Visiting Prof. [**Bingsheng He**](http://maths.nju.edu.cn/~hebma/)
+ 
+### Teaching
+- Ph.D course: [Frontier Topics in Mathematics]
+- M.S. course: [Optimization Theory and Method], [Machine Learning, Dynamical Systems, and Control], [Convex Algorithm and Applications]
+- B.S. course: [Linear Algebra]
 
-### Research Fields
+### Research Interests
 Currently I am interested in stochastic algorithms (e.g. _stochastic gradient method_, _ADMM_ and _proximal point algorithm_, _primal-dual method_) for solving the `non-smooth convex/nonconvex` programming problems arising in machine learning, statistical learning, image processing and so forth. Wellcome to [my official homepage](https://teacher.nwpu.edu.cn/jcbai) for more details.
+
+### Research Grants
+- NFS of China, Study on structured optimization algorithms in large-scale data processing, 2021-2023.
+- China Postdoctoral Science Foundation， Novel alternating direction method with applications, 2021-2022.
+- Fundamental Research Funds for the Central Universities, Study on first-order algorithms for structured convex optimization, 2019-2021
 
 ### Academic Achievements
 ★ **`Optimization methods including first-order methods`**
@@ -48,7 +58,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - **J. Bai**  X. Duan, K. Cheng, X. Zhang. [A class of weighted low rank approximation of the positive semidefinite Hankel matrix](https://www.hindawi.com/journals/jam/2015/937573/). Journal of Applied Mathematics. Atricle ID 937 573 (2015) 7 pages. 
 - X. Duan, **J. Bai**(Corresponding author), M. Zhang, X. Zhang. [On the generalized low rank approximation of the correlation matrices arising in the asset portfolio](https://www.sciencedirect.com/science/article/pii/S0024379514004765), Linear Algebra and its Applications, 461:1-17 (2014) (JCR-3)
 
-### Social Service
+### Professional Activities
 ★ Reviewer of the journals
  - Automatica (IF: 6.355, JCR-2)
  - Applied Numerical Mathematics (IF: 1.678, JCR-2)
@@ -67,6 +77,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
  - Numerical Mathematics: A Journal of Chinese Universities, Chinese Series (CSCD)
 
 ★ Guest commentator of Math Review; Members of ORSC(S390021704M), CSIAM(2600615M), CMS(S010007511M), MIIT Key Laboratory of Dynamics and Control of Complex Systems, etc.
+
 ### Talks and conference
 1. **`Invited talks`**
 - April 21, 2021, Report on “Deterministic and stochastic ADMM for structured convex optimization”. Beihang University, China. (invited by Prof. Jiaxin Xie)  
@@ -90,11 +101,6 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - November 21-22, 2020,“[International Conference on Computational Geophysics and Inverse Problems for PDE](http://www.orsc.org.cn/news.php?cid=128&id=623)”, Supported by Tianyuan Mathematical Center in Northwest China, Co-organizer
 - November 14, 2020, Seminar on Optimization Progress(II), Speakers: [Hezhi Luo](https://www.nwpu.edu.cn/info/1039/9609.htm), [Yaohua Hu](https://www.nwpu.edu.cn/info/1039/9626.htm), and [Cong Sun](https://www.nwpu.edu.cn/info/1039/9608.htm), Organizer.
 - September 26, 2020, Seminar on Optimization Progress(I), Speakers: [Jiawei Chen](http://xygg.nwpu.edu.cn/info/1007/23541.htm), [Yangyang Xu](http://xygg.nwpu.edu.cn/info/1007/23540.htm), and [Deren Han](http://xygg.nwpu.edu.cn/info/1007/23544.htm), Organizer.
-
-### Teaching
-- Ph.D course: [Frontier Topics in Mathematics]
-- M.S. course: [Optimization Theory and Method], [Machine Learning, Dynamical Systems, and Control], [Convex Algorithm and Applications]
-- B.S. course: [Linear Algebra]
 
 ### Contact Information
 - Address: School of Mathematics and Statistics, Northwestern Polytechnical University, Xi'an 710129, China
