@@ -92,9 +92,9 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - September 26, 2020, Seminar on Optimization Progress(I), Speakers: [Jiawei Chen](http://xygg.nwpu.edu.cn/info/1007/23541.htm), [Yangyang Xu](http://xygg.nwpu.edu.cn/info/1007/23540.htm), [Deren Han](http://xygg.nwpu.edu.cn/info/1007/23544.htm), Organizer.
 
 ### Teaching
-- Ph.D course: [Frontier courses in mathematics]
-- M.S. course: [Optimization theory and method], [Machine Learning, Dynamical Systems, and Control], [Convex algorithm and application]
-- B.S. course: [Linear algebra]
+- Ph.D course: [Frontier Courses in Mathematics]
+- M.S. course: [Optimization Theory and Method], [Machine Learning, Dynamical Systems, and Control], [Convex Algorithm and Application]
+- B.S. course: [Linear Algebra]
 
 ### Contact Information
 - Address: School of Mathematics and Statistics, Northwestern Polytechnical University, Xi'an 710129, China
