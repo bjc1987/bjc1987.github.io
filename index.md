@@ -84,16 +84,16 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 2. **`Organized conference`**
 - May 29-30, 2021, “[International Conference on Nonconvex and Distributed Optimization: Theory, Algorithm and Applications](http://www.orsc.org.cn/news.php?cid=128&id=623)”, Supported by Tianyuan Mathematical Center in Northwest China, Organizer
 - May 20, 2021, [Workshop on Operator Splitting Methods and Its Apllications(II)](http://math.nwpu.edu.cn/info/1052/2657.htm), Speakers: Weijun Zhou, Yuntong Bai, Organizer.
-- March 27, 2021, Workshop on Operator Splitting Methods and Its Apllications(I), Speakers: [Jianlin Jiang](http://math.nwpu.edu.cn/info/1052/2444.htm), [Min Li](http://math.nwpu.edu.cn/info/1052/2446.htm), [Xingju Cai](http://math.nwpu.edu.cn/info/1052/2442.htm), Organizer.
-- December 27, 2020, Seminar on Optimization Progress(III), Speakers: [Caihua Chen](http://math.nwpu.edu.cn/info/1052/2252.htm), [Xiaokai Chang](http://math.nwpu.edu.cn/info/1052/2256.htm), [Zhongming Wu](http://math.nwpu.edu.cn/info/1052/2254.htm), Organizer.
+- March 27, 2021, Workshop on Operator Splitting Methods and Its Apllications(I), Speakers: [Jianlin Jiang](http://math.nwpu.edu.cn/info/1052/2444.htm), [Min Li](http://math.nwpu.edu.cn/info/1052/2446.htm), and [Xingju Cai](http://math.nwpu.edu.cn/info/1052/2442.htm), Organizer.
+- December 27, 2020, Seminar on Optimization Progress(III), Speakers: [Caihua Chen](http://math.nwpu.edu.cn/info/1052/2252.htm), [Xiaokai Chang](http://math.nwpu.edu.cn/info/1052/2256.htm), and [Zhongming Wu](http://math.nwpu.edu.cn/info/1052/2254.htm), Organizer.
 - November 27, 2020, Report on [An inexact augmented Lagrange method for solving a family of nonsmooth optimization problem on Riemannian manifold](https://www.nwpu.edu.cn/info/1039/9796.htm) by Prof. Zheng Peng, Address: Math 214.
 - November 21-22, 2020,“[International Conference on Computational Geophysics and Inverse Problems for PDE](http://www.orsc.org.cn/news.php?cid=128&id=623)”, Supported by Tianyuan Mathematical Center in Northwest China, Co-organizer
-- November 14, 2020, Seminar on Optimization Progress(II), Speakers: [Hezhi Luo](https://www.nwpu.edu.cn/info/1039/9609.htm), [Yaohua Hu](https://www.nwpu.edu.cn/info/1039/9626.htm), [Cong Sun](https://www.nwpu.edu.cn/info/1039/9608.htm), Organizer.
-- September 26, 2020, Seminar on Optimization Progress(I), Speakers: [Jiawei Chen](http://xygg.nwpu.edu.cn/info/1007/23541.htm), [Yangyang Xu](http://xygg.nwpu.edu.cn/info/1007/23540.htm), [Deren Han](http://xygg.nwpu.edu.cn/info/1007/23544.htm), Organizer.
+- November 14, 2020, Seminar on Optimization Progress(II), Speakers: [Hezhi Luo](https://www.nwpu.edu.cn/info/1039/9609.htm), [Yaohua Hu](https://www.nwpu.edu.cn/info/1039/9626.htm), and [Cong Sun](https://www.nwpu.edu.cn/info/1039/9608.htm), Organizer.
+- September 26, 2020, Seminar on Optimization Progress(I), Speakers: [Jiawei Chen](http://xygg.nwpu.edu.cn/info/1007/23541.htm), [Yangyang Xu](http://xygg.nwpu.edu.cn/info/1007/23540.htm), and [Deren Han](http://xygg.nwpu.edu.cn/info/1007/23544.htm), Organizer.
 
 ### Teaching
-- Ph.D course: [Frontier Courses in Mathematics]
-- M.S. course: [Optimization Theory and Method], [Machine Learning, Dynamical Systems, and Control], [Convex Algorithm and Application]
+- Ph.D course: [Frontier Topics in Mathematics]
+- M.S. course: [Optimization Theory and Method], [Machine Learning, Dynamical Systems, and Control], [Convex Algorithm and Applications]
 - B.S. course: [Linear Algebra]
 
 ### Contact Information
