@@ -80,6 +80,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ### Talks and conference
 1. **`Invited talks`**
+- June 18, 2021, Report on “Deterministic and stochastic ADMM for structured convex optimization”. Henan Normal University, China. (invited by Prof. Yonggang Pei)  
 - April 21, 2021, Report on “Deterministic and stochastic ADMM for structured convex optimization”. Beihang University, China. (invited by Prof. Jiaxin Xie)  
 - December 19, 2020, Report on “Deterministic and stochastic ADMM for nonsmooth separable convex optimization”. Changsha University of Science & Technology, China. (invited by Prof. Weijun Zhou)  
 - November 5, 2020, Report on “ADMM and its varaints for separable convex optimization”. Guangxi University, China. (invited by Prof. Gonglin Yuan)  
@@ -92,7 +93,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - February 21, 2018, Report on “Generalized/linearized symmetric ADMM for separable convex optimization”. Tulane University, USA. (invited by Prof. Y.P. Wang)
 - February 2-3, 2018, Report on “Generalized symmetric ADMM for separable convex optimization”. SCALA 2018 - Scientic Computing aroud Louisiana, Louisiana State University, USA.
 - April 23-27, 2016, Report “On the low rank solution of the Q-weighted nearest correlation matrix problem”. Shenzhen University, China. (invited by Prof. G. Li) 
-2. **`Organized conference`**
+3. **`Organized conference`**
 - May 29-30, 2021, “[International Conference on Nonconvex and Distributed Optimization: Theory, Algorithm and Applications](http://www.orsc.org.cn/news.php?cid=128&id=623)”, Supported by Tianyuan Mathematical Center in Northwest China, Organizer
 - May 20, 2021, [Workshop on Operator Splitting Methods and Its Apllications(II)](http://math.nwpu.edu.cn/info/1052/2657.htm), Speakers: Weijun Zhou and Yuntong Bai, Organizer.
 - March 27, 2021, Workshop on Operator Splitting Methods and Its Apllications(I), Speakers: [Jianlin Jiang](http://math.nwpu.edu.cn/info/1052/2444.htm), [Min Li](http://math.nwpu.edu.cn/info/1052/2446.htm), and [Xingju Cai](http://math.nwpu.edu.cn/info/1052/2442.htm), Organizer.
