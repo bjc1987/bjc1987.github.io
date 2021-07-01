@@ -31,7 +31,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - **J. Bai**, D. Han, H. Sun, H. Zhang. [Convergence analysis of an  inexact accelerated stochastic ADMM with larger stepsizes](https://arxiv.org/abs/2103.16154), (2020) Under review 
 - **J. Bai**, W. Hager, H. Zhang. [Accelerated stochastic ADMM for separable convex optimization](https://arxiv.org/abs/2010.12765),  (2020) Under review
 - **J. Bai**,  J. Liang, K. Guo, Y. Jing, H. So. [Accelerated symmetric ADMM and its applications in signal processing](https://arxiv.org/abs/1906.12015), (2019) Under review
-- X. Chang,**J. Bai**(Corresponding author). A projected extrapolated gradient method with larger step size for monotone variational inequalities, (2021), Under review
+- X. Chang,**J. Bai**(Corresponding author). A projected extrapolated gradient method with larger step size for monotone variational inequalities, Journal of Optimization Theory and Applications, Accepted, (2021) (JCR-2)
 - **J. Bai**,  Y. Ma, H. Sun, M. Zhang. [Iteration complexity analysis of a partial LQP-based alternating direction method of multipliers](https://arxiv.org/abs/2010.12765), Applied Numerical Mathematics, 165: 500-518, (2021)  (JCR-2)
 - **J. Bai**,  X. Chang, J. Li, F. Xu. [Convergence revisit on generalized symmetric ADMM](https://www.tandfonline.com/doi/full/10.1080/02331934.2019.1704754), Optimization, 70: 149-168, (2021)  (JCR-3)
 - Y. Bai, Y. Gong, **J. Bai**,  et al. [A joint analysis of multi-paradigm fMRI data with its applications to cognitive study](https://ieeexplore.ieee.org/document/9284595), IEEE Transactions on Medical Imaging, 40(3): 951-962, (2021) (JCR-1, Top)
