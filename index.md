@@ -20,9 +20,12 @@
 Currently I am interested in stochastic algorithms (e.g. _stochastic gradient method_, _ADMM_ and _proximal point algorithm_, _primal-dual method_) for solving the `non-smooth convex/nonconvex` programming problems arising in machine learning, statistical learning, image processing and so forth. Wellcome to [my official homepage](https://teacher.nwpu.edu.cn/jcbai) for more details.
 
 ### Research Grants
-- NFS of China, Study on structured optimization algorithms in large-scale data processing, 2021-2023.
-- China Postdoctoral Science Foundation, Novel alternating direction method with applications, 2021-2022.
-- Fundamental Research Funds for the Central Universities, Study on first-order algorithms for structured convex optimization, 2019-2021
+- National Natural Science Foundation of China: Study on Structured Optimization Algorithms in Large-scale Data Processing, 2021-2023, Lead
+- China Postdoctoral Science Foundation: Novel Alternating Direction Method with Applications, 2021-2022, Lead
+- Fundamental Research Funds for the Central Universities: Study on First-order Algorithms for Structured Convex Optimization, 2019-2021, Lead
+- National Statistical Science Research Project of China: Analysis Method for Low Rank Sparse Big-data with Applications, 2018-2020, Participant
+- National Natural Science Foundation of China: Study on Model and Algorithm for Multilevel Structured Low Rank Approximation and Sparse Representation, 2017-2020, Participant
+- Natural Science Foundation of Fujian province: Study on Estimating of the Solution to Linear Complementarity Problem with Its New Algorithms, 2016-2019, Participant
 
 ### Academic Achievements
 ★ **`Optimization methods including first-order methods`**
@@ -60,18 +63,19 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ### Professional Activities
 ★ Reviewer of the journals
- - Automatica (IF: 6.355, JCR-2)
- - Applied Numerical Mathematics (IF: 1.678, JCR-2)
- - Computational and Applied Mathematics (IF: 1.260, JCR-3)
- - Computational optimization and applications (IF: 1.906, JCR-2)
- - Calcolo (IF:1.521, JCR-2)
- - FILOMAT (IF: 0.789, JCR-4)
- - IEEE Access (IF: 4.098, JCR-2)
- - Journal of Global Optimization (IF: 1.631, JCR-3)
- - Journal of the Operations Research Society of China
- - Numerical Algorithms (IF: 1.973, JCR-2)
- - Optimization Letters (IF: 1.399, JCR-3)
- - Signal Processing (IF: 4.086, JCR-2)
+ - Automatica (JCR-2)
+ - Applied Numerical Mathematics (JCR-2)
+ - Computational and Applied Mathematics (JCR-3)
+ - Computational Optimization and Applications (JCR-2)
+ - Calcolo (JCR-2)
+ - FILOMAT (JCR-4)
+ - IEEE Access (JCR-2)
+ - Journal of Global Optimization (JCR-2)
+ - Journal of the Operations Research Society of China (EI)
+ - Neurocomputing (JCR-2)
+ - Numerical Algorithms (JCR-2)
+ - Optimization Letters (JCR-3)
+ - Signal Processing (JCR-2)
  - Mathematica Numerica Sinica, Chinese Series (CSCD)
  - Journal of Numerical Methods and Computer Applications, Chinese Series (CSCD)
  - Numerical Mathematics: A Journal of Chinese Universities, Chinese Series (CSCD)
@@ -94,6 +98,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - February 2-3, 2018, Report on “Generalized symmetric ADMM for separable convex optimization”. SCALA 2018 - Scientic Computing aroud Louisiana, Louisiana State University, USA.
 - April 23-27, 2016, Report “On the low rank solution of the Q-weighted nearest correlation matrix problem”. Shenzhen University, China. (invited by Prof. G. Li) 
 3. **`Organized conference`**
+- September 3-5, 2021, Youth Symposium on Computing and Optimization, Supported by Northwestern Polytechnical University, Organizer
 - May 29-30, 2021, “[International Conference on Nonconvex and Distributed Optimization: Theory, Algorithm and Applications](http://www.orsc.org.cn/news.php?cid=128&id=623)”, Supported by Tianyuan Mathematical Center in Northwest China, Organizer
 - May 20, 2021, [Workshop on Operator Splitting Methods and Its Apllications(II)](http://math.nwpu.edu.cn/info/1052/2657.htm), Speakers: Weijun Zhou and Yuntong Bai, Organizer.
 - March 27, 2021, Workshop on Operator Splitting Methods and Its Apllications(I), Speakers: [Jianlin Jiang](http://math.nwpu.edu.cn/info/1052/2444.htm), [Min Li](http://math.nwpu.edu.cn/info/1052/2446.htm), and [Xingju Cai](http://math.nwpu.edu.cn/info/1052/2442.htm), Organizer.
