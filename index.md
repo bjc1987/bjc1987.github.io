@@ -25,7 +25,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - Fundamental Research Funds for the Central Universities: Study on First-order Algorithms for Structured Convex Optimization, 2019-2021, Lead
 - National Statistical Science Research Project of China: Analysis Method for Low Rank Sparse Big-data with Applications, 2018-2020, Participant
 - National Natural Science Foundation of China: Study on Model and Algorithm for Multilevel Structured Low Rank Approximation and Sparse Representation, 2017-2020, Participant
-- Natural Science Foundation of Fujian province: Study on Estimating of the Solution to Linear Complementarity Problem with Its New Algorithms, 2016-2019, Participant
+- Natural Science Foundation of Fujian province: Study on Estimating the Solution to Linear Complementarity Problem with Its New Algorithms, 2016-2019, Participant
 
 ### Academic Achievements
 ★ **`Optimization methods including first-order methods`**
