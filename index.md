@@ -83,7 +83,8 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 ★ Guest commentator of Math Review; Members of ORSC(S390021704M), CSIAM(2600615M), CMS(S010007511M), MIIT Key Laboratory of Dynamics and Control of Complex Systems, etc.
 
 ### Talks and conference
-1. **`Invited talks`**
+1. **`Talks`**
+- August 15-19, 2021, Report on "Accelerated stochastic ADMM with applications in supervised learning". The 13-th Annual Conference on Computational Mathematics of Chinese Mathematical Society, Nanjing Normal University, China.
 - June 18, 2021, Report on “Deterministic and stochastic ADMM for structured convex optimization”. Henan Normal University, China. (invited by Prof. Yonggang Pei)  
 - April 21, 2021, Report on “Deterministic and stochastic ADMM for structured convex optimization”. Beihang University, China. (invited by Prof. Jiaxin Xie)  
 - December 19, 2020, Report on “Deterministic and stochastic ADMM for nonsmooth separable convex optimization”. Changsha University of Science & Technology, China. (invited by Prof. Weijun Zhou)  
@@ -97,7 +98,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - February 21, 2018, Report on “Generalized/linearized symmetric ADMM for separable convex optimization”. Tulane University, USA. (invited by Prof. Y.P. Wang)
 - February 2-3, 2018, Report on “Generalized symmetric ADMM for separable convex optimization”. SCALA 2018 - Scientic Computing aroud Louisiana, Louisiana State University, USA.
 - April 23-27, 2016, Report “On the low rank solution of the Q-weighted nearest correlation matrix problem”. Shenzhen University, China. (invited by Prof. G. Li) 
-3. **`Organized conference`**
+2. **`Organized conference`**
 - September 3-5, 2021, Youth Symposium on Computing and Optimization, Supported by Northwestern Polytechnical University, Organizer
 - May 29-30, 2021, “[International Conference on Nonconvex and Distributed Optimization: Theory, Algorithm and Applications](http://www.orsc.org.cn/news.php?cid=128&id=623)”, Supported by Tianyuan Mathematical Center in Northwest China, Organizer
 - May 20, 2021, [Workshop on Operator Splitting Methods and Its Apllications(II)](http://math.nwpu.edu.cn/info/1052/2657.htm), Speakers: Weijun Zhou and Yuntong Bai, Organizer.
@@ -107,6 +108,9 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - November 21-22, 2020,“[International Conference on Computational Geophysics and Inverse Problems for PDE](http://www.orsc.org.cn/news.php?cid=128&id=623)”, Supported by Tianyuan Mathematical Center in Northwest China, Co-organizer
 - November 14, 2020, Seminar on Optimization Progress(II), Speakers: [Hezhi Luo](https://www.nwpu.edu.cn/info/1039/9609.htm), [Yaohua Hu](https://www.nwpu.edu.cn/info/1039/9626.htm), and [Cong Sun](https://www.nwpu.edu.cn/info/1039/9608.htm), Organizer.
 - September 26, 2020, Seminar on Optimization Progress(I), Speakers: [Jiawei Chen](http://xygg.nwpu.edu.cn/info/1007/23541.htm), [Yangyang Xu](http://xygg.nwpu.edu.cn/info/1007/23540.htm), and [Deren Han](http://xygg.nwpu.edu.cn/info/1007/23544.htm), Organizer.
+
+### Current Students
+- Yuxue Ma, Master candidate, 2020-
 
 ### Contact Information
 - Address: School of Mathematics and Statistics, Northwestern Polytechnical University, Xi'an 710129, China
