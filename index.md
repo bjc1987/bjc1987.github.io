@@ -110,7 +110,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - September 26, 2020, Seminar on Optimization Progress(I), Speakers: [Jiawei Chen](http://xygg.nwpu.edu.cn/info/1007/23541.htm), [Yangyang Xu](http://xygg.nwpu.edu.cn/info/1007/23540.htm), and [Deren Han](http://xygg.nwpu.edu.cn/info/1007/23544.htm), Organizer.
 
 ### Current Students
-- Yuxue Ma, Master candidate, 2020-
+- Yuxue Ma, Master candidate (Cooperated with Prof. Hao Sun), 2020-
 
 ### Contact Information
 - Address: School of Mathematics and Statistics, Northwestern Polytechnical University, Xi'an 710129, China
