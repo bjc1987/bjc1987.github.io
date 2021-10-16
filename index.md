@@ -66,9 +66,13 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ### Professional Activities
 ★ Editor (2021--): Annals of Applied Sciences 
+
 ★ Council Member (2021--): CSIAM Activity Group on Big Data and AI
+
 ★ Member of International Program Committee, The International Conference on Artificial intelligence & Advanced Networking, 28-29 July 2022 | Oxford, United Kingdom
+
 ★ Guest commentator of Math Review; Members of ORSC(S390021704M), CSIAM(2600615M), CMS(S010007511M), MIIT Key Laboratory of Dynamics and Control of Complex Systems, etc.
+
 ★ Reviewer of the journals
  - Automatica (JCR-2)
  - Applied Numerical Mathematics (JCR-2)
