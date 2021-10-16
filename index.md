@@ -7,7 +7,7 @@
 ### Academic Experience
  - March, 2019-Now, Northwestern Polytechnical University, Associate professor
  - Dec. 2019-Now, Northwestern Polytechnical University, Postdoctor, co-advisor: Prof. [**Hao Sun**](https://teacher.nwpu.edu.cn/sunhao.html)
- - April-May, 2021, Chinese Academy of Sciences, Visiting Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
+ - April-August, 2021, Chinese Academy of Sciences, Visiting Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
  - Oct. - Oct. 2019, Beihang University, Visiting Prof. [**Deren Han**](http://math.buaa.edu.cn/szdw/azcck/js/hdr.htm)
  - Oct. - Oct. 2016, Southern University of Science and Technology, Visiting Prof. [**Bingsheng He**](http://maths.nju.edu.cn/~hebma/)
  
@@ -31,10 +31,14 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 ★ **`Optimization methods including first-order methods`**
 
 - **J. Bai**, M. Zhang, H. Zhang. An inexact ADMM for sepable nonconvex and nonsmooth optimization, (2021) In preparation
-- **J. Bai**, D. Han, H. Sun, H. Zhang. [Convergence analysis of an  inexact accelerated stochastic ADMM with larger stepsizes](https://arxiv.org/abs/2103.16154), (2020) Under review 
-- **J. Bai**, W. Hager, H. Zhang. [Accelerated stochastic ADMM for separable convex optimization](https://arxiv.org/abs/2010.12765),  (2020) Under review
+- **J. Bai**. [An new insight on augmented Lagrangian method and its extensions](https://arxiv.org/abs/2108.11125v2), (2021) Optimization Online
+- **J. Bai**, F. Bian, X. Chang, L. Du. Accelerated stochastic Peaceman-Rachford method for empirical risk minimization, (2021) Under review
+- Q. Kong, H. Sun, **J. Bai**. Optimization of the core for an unbalanced cooperative game, (2021) Under review
+- **J. Bai**, D. Han, H. Sun, H. Zhang. [Accelerated symmetric ADMM and its applications in signal processing](https://arxiv.org/abs/1906.12015), (2020) Under review 
+- **J. Bai**, D. Han, H. Sun, H. Zhang. [Convergence on a symmetric accelerated stochastic ADMM with larger stepsizes](https://arxiv.org/abs/2103.16154), (2020) Under review 
+- **J. Bai**, W. Hager, H. Zhang. [An inexact accelerated stochastic ADMM for separable convex optimization](https://arxiv.org/abs/2010.12765),  (2020) Under review
 - **J. Bai**,  J. Liang, K. Guo, Y. Jing, H. So. [Accelerated symmetric ADMM and its applications in signal processing](https://arxiv.org/abs/1906.12015), (2019) Under review
-- X. Chang,**J. Bai**(Corresponding author). A projected extrapolated gradient method with larger step size for monotone variational inequalities, Journal of Optimization Theory and Applications, Accepted, (2021) (JCR-2)
+- X. Chang,**J. Bai**(Corresponding author). [A projected extrapolated gradient method with larger step size for monotone variational inequalities](https://link.springer.com/article/10.1007/s10957-021-01902-2), Journal of Optimization Theory and Applications, Accepted, 190: 602-627, (2021) (JCR-2)
 - **J. Bai**,  Y. Ma, H. Sun, M. Zhang. [Iteration complexity analysis of a partial LQP-based alternating direction method of multipliers](https://arxiv.org/abs/2010.12765), Applied Numerical Mathematics, 165: 500-518, (2021)  (JCR-2)
 - **J. Bai**,  X. Chang, J. Li, F. Xu. [Convergence revisit on generalized symmetric ADMM](https://www.tandfonline.com/doi/full/10.1080/02331934.2019.1704754), Optimization, 70: 149-168, (2021)  (JCR-3)
 - Y. Bai, Y. Gong, **J. Bai**,  et al. [A joint analysis of multi-paradigm fMRI data with its applications to cognitive study](https://ieeexplore.ieee.org/document/9284595), IEEE Transactions on Medical Imaging, 40(3): 951-962, (2021) (JCR-1, Top)
@@ -62,6 +66,10 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - X. Duan, **J. Bai**(Corresponding author), M. Zhang, X. Zhang. [On the generalized low rank approximation of the correlation matrices arising in the asset portfolio](https://www.sciencedirect.com/science/article/pii/S0024379514004765), Linear Algebra and its Applications, 461:1-17 (2014) (JCR-3)
 
 ### Professional Activities
+★ Editor (2021--): Annals of Applied Sciences 
+★ Council Member (2021--): CSIAM Activity Group on Big Data and AI
+★ Member of International Program Committee, The International Conference on Artificial intelligence & Advanced Networking, 28-29 July 2022 | Oxford, United Kingdom
+★ Guest commentator of Math Review; Members of ORSC(S390021704M), CSIAM(2600615M), CMS(S010007511M), MIIT Key Laboratory of Dynamics and Control of Complex Systems, etc.
 ★ Reviewer of the journals
  - Automatica (JCR-2)
  - Applied Numerical Mathematics (JCR-2)
@@ -70,6 +78,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
  - Calcolo (JCR-2)
  - FILOMAT (JCR-4)
  - IEEE Access (JCR-2)
+ - Journal of Mathematics (JCR-4)
  - Journal of Global Optimization (JCR-2)
  - Journal of the Operations Research Society of China (EI)
  - Neurocomputing (JCR-2)
@@ -79,9 +88,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
  - Mathematica Numerica Sinica, Chinese Series (CSCD)
  - Journal of Numerical Methods and Computer Applications, Chinese Series (CSCD)
  - Numerical Mathematics: A Journal of Chinese Universities, Chinese Series (CSCD)
-
-★ Guest commentator of Math Review; Members of ORSC(S390021704M), CSIAM(2600615M), CMS(S010007511M), MIIT Key Laboratory of Dynamics and Control of Complex Systems, etc.
-
+ 
 ### Talks and conference
 1. **`Talks`**
 - August 15-19, 2021, Report on "Accelerated stochastic ADMM with applications in supervised learning". The 13-th Annual Conference on Computational Mathematics of Chinese Mathematical Society, Nanjing Normal University, China.
