@@ -32,7 +32,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 - Y. Ma, **J. Bai**, H. Sun. An inexact ADMM with proximal-indefinite term for sepable convex optimization, (2021) In preparation
 - **J. Bai**, M. Zhang, H. Zhang. An inexact ADMM for sepable nonconvex and nonsmooth optimization, (2021) Under review
-- **J. Bai**. [An new insight on augmented Lagrangian method and its extensions](https://arxiv.org/abs/2108.11125v2), (2021) Optimization Online
+- **J. Bai**, H. Zhang. [An new insight on augmented Lagrangian method and its extensions](https://arxiv.org/abs/2108.11125v2), (2021) Optimization Online
 - **J. Bai**, F. Bian, X. Chang, L. Du. Accelerated stochastic Peaceman-Rachford method for empirical risk minimization, (2021) Under review
 - Q. Kong, H. Sun, **J. Bai**. Optimization of the core for an unbalanced cooperative game, (2021) Under review 
 - **J. Bai**,  J. Liang, K. Guo, Y. Jing, H. So. [Accelerated symmetric ADMM and its applications in signal processing](https://arxiv.org/abs/1906.12015), (2019) Under review
