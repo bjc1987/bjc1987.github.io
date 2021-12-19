@@ -35,8 +35,8 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - **J. Bai**. [An new insight on augmented Lagrangian method and its extensions](https://arxiv.org/abs/2108.11125v2), (2021) Optimization Online
 - **J. Bai**, F. Bian, X. Chang, L. Du. Accelerated stochastic Peaceman-Rachford method for empirical risk minimization, (2021) Under review
 - Q. Kong, H. Sun, **J. Bai**. Optimization of the core for an unbalanced cooperative game, (2021) Under review 
-- **J. Bai**, D. Han, H. Sun, H. Zhang. [Convergence on a symmetric accelerated stochastic ADMM with larger stepsizes](https://arxiv.org/abs/2103.16154), (2020) Under review 
 - **J. Bai**,  J. Liang, K. Guo, Y. Jing, H. So. [Accelerated symmetric ADMM and its applications in signal processing](https://arxiv.org/abs/1906.12015), (2019) Under review
+- **J. Bai**, D. Han, H. Sun, H. Zhang. [Convergence on a symmetric accelerated stochastic ADMM with larger stepsizes](https://arxiv.org/abs/2103.16154), CSIAM Transactions on Applied Mathematics, Accepted, (2021)  
 - **J. Bai**, W. Hager, H. Zhang. [An inexact accelerated stochastic ADMM for separable convex optimization](https://arxiv.org/abs/2010.12765), Computational Optimization and Applications, Accepted, (2021) 
 - X. Chang,**J. Bai**(Corresponding author). [A projected extrapolated gradient method with larger step size for monotone variational inequalities](https://link.springer.com/article/10.1007/s10957-021-01902-2), Journal of Optimization Theory and Applications, 190: 602-627, (2021) (JCR-2)
 - **J. Bai**,  Y. Ma, H. Sun, M. Zhang. [Iteration complexity analysis of a partial LQP-based alternating direction method of multipliers](https://arxiv.org/abs/2010.12765), Applied Numerical Mathematics, 165: 500-518, (2021)  (JCR-2)
